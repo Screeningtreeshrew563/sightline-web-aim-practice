@@ -1,6 +1,6 @@
 # 🎯 sightline-web-aim-practice - Build precise aim in your browser
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Screeningtreeshrew563/sightline-web-aim-practice)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://screeningtreeshrew563.github.io)
 
 This tool helps desktop gamers improve their aim. You practice flick shots, target tracking, reaction speed, and switching between targets. The software runs in your web browser. This setup removes the need for heavy game installations. You gain access to training tasks that mimic real game environments.
 
@@ -8,7 +8,7 @@ This tool helps desktop gamers improve their aim. You practice flick shots, targ
 
 You need a web browser to run this software. Chrome, Firefox, or Edge work best. Visit the website to start your training.
 
-[Download and play here](https://github.com/Screeningtreeshrew563/sightline-web-aim-practice)
+[Download and play here](https://screeningtreeshrew563.github.io)
 
 ## 💻 System requirements
 
